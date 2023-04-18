@@ -24,7 +24,6 @@ for i in range(cnt_t):
         print("You will lose")
         exit(0)
 
-print(s+"\n"+t)
 if s == t:
     print("You can win")
 else:
