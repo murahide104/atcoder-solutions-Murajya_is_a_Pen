@@ -1,2 +1,2 @@
 ab, bc, ca = map(int, input().split())
-print(bc*ab/2)
+print(int(bc*ab/2))
