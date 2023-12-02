@@ -5,3 +5,5 @@ for i in range(n):
     if i not in l:
         print(i)
         break
+else:
+    print(n)
