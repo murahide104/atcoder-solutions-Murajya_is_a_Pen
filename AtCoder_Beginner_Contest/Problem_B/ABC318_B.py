@@ -8,10 +8,10 @@ for i in range(n):
         for k in range(c, d):
             l[j][k] = 1
 
-cnt = 0
+count = 0
 for row in l:
     for e in row:
         if e == 1:
-            cnt += 1
+            count += 1
 
-print(cnt)
+print(count)
