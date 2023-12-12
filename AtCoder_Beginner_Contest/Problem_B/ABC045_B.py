@@ -15,7 +15,7 @@ while True:
             print("B")
             break
         else:
-            check = c.pop(0)
+            check = b.pop(0)
     else:
         if not c:
             print("C")
