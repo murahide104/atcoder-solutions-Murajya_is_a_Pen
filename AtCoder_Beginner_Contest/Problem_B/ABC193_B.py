@@ -11,4 +11,3 @@ for i in range(n):
         cost = p
         
 print(cost if flag else -1)
-        
