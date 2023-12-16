@@ -16,3 +16,4 @@ if u_check or l_check or unique_check:
     print("No")
 else:
     print("Yes")
+    
