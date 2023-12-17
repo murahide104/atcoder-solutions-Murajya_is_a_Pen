@@ -12,5 +12,4 @@ for x in s:
     if x in t:
         ans += 1
 
-
 print(ans)
