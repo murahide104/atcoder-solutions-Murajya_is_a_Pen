@@ -9,3 +9,4 @@ for i in range(q):
         a[l[1]-1] = l[2]
     else:
         print(a[l[1]-1])
+        
