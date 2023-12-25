@@ -1,5 +1,5 @@
 side = ["AB", "BC", "CD", "DE", "EA",
-        "BA", "CB", "DC", "ED", "EA"]
+        "BA", "CB", "DC", "ED", "AE"]
 diagonal = ["AC", "AD", "BD", "BE", "CE",
             "CA", "DA", "DB", "EB", "EC"]
 
