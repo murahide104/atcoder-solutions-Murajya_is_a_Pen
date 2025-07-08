@@ -8,3 +8,6 @@ for i in range(n):
         count *= k-1
 
 print(count)
+
+
+# print(k * (k-1)**(n-1))
