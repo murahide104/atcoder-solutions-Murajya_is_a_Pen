@@ -16,7 +16,7 @@ for i in range(1 << len(s)-1):
         elif bit[j] == "1":
             total += int(num)
             num = s[j+1]
-    
+
     total += int(num)
 
 print(total)
